@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Li teaches spatial analysis, spatial computer programming, and geospatial technology in water resources. His research focuses on geospatial technology and methods for mapping and analyzing surface water and generic spatiotemporal data analysis methods.
+Dr. Li's research is in geospatial science and technology with a focus on mapping and analyzing surface water resources. He teaches spatial analysis, spatial computer programming, and geospatial technology in water resources. 
