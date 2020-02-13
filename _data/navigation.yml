@@ -16,7 +16,7 @@ main:
     url: /talks/
 
   - title: "Misc."
-    url: /portfolio/
+    url: /miscellaneous/
     
   - title: "Guide"
     url: /markdown/    
