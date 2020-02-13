@@ -16,7 +16,10 @@ main:
     url: /talks/
 
   - title: "Misc."
-    url: /year-archive/
+    url: /miscellaneous/
     
   - title: "Guide"
     url: /markdown/    
+  #
+  #- title: "Blog Posts"
+  #  url: /year-archive/
