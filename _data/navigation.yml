@@ -3,21 +3,21 @@ main:
   - title: "Research"
     url: /portfolio/
   
+  - title: "Teaching"
+    url: /teaching/
+ 
+  - title: "Misc."
+    url: /miscellaneous/
+
   - title: "Publications"
     url: /publications/  
-
-  - title: "Teaching"
-    url: /teaching/    
-
+       
   - title: "CV"
     url: /cv/  
 
   - title: "Talks"
     url: /talks/
 
-  - title: "Misc."
-    url: /miscellaneous/
-    
   - title: "Guide"
     url: /markdown/    
   #
