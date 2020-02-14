@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My research is in the field of geospatial science and technology with a focus on mapping and analysis of surface water resources. He teaches geospatial programming, spatial data analysis, and geospatial technology applications in water resources. 
+My research is in the field of spatial data science and technology with a focus on mapping and analysis of surface water resources. I teach spatial programming, spatial data analysis, and geospatial technology applications in water resources. 
 
 My official and more stable web site is <a href="https://geog.ku.edu/xingong-li">here</a>. This web site has more dynamic contents related with my research, teaching and some other interests.
 
