@@ -6,6 +6,9 @@ main:
   - title: "Teaching"
     url: /teaching/
  
+  - title: "Github"
+    url: /portfolio/
+    
   - title: "Misc."
     url: /miscellaneous/
 
@@ -23,9 +26,6 @@ main:
   
   - title: "Blog Posts"
     url: /year-archive/
-
-  - title: "Portfolio"
-    url: /portfolio/
 
   - title: "Guide"
     url: /markdown/  
