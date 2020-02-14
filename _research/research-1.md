@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1"
+title: "Research item number 1"
+excerpt: "Short description of item number 1"
 collection: research
 ---
 
